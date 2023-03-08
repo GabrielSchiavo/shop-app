@@ -1,0 +1,127 @@
+{
+  "orders": {
+    "Ce6VloiO2Qa1zwL47KLPDOh6r913": {
+      "-NJqY-yXSb5JPdup-QDn": {
+        "date": "2022-12-21T21:17:05.872445",
+        "products": [
+          {
+            "id": "0.2794921421158182",
+            "name": "Tênis Nike",
+            "price": 229.99,
+            "productId": "-NJR3QHliwXcIWe5S1Qz",
+            "quantity": 1
+          },
+          {
+            "id": "0.09159041155971093",
+            "name": "Kit Lápis de Cor",
+            "price": 59.25,
+            "productId": "-NJR5hh5DXhSY9qqyK-A",
+            "quantity": 1
+          }
+        ],
+        "total": 289.24
+      }
+    },
+    "MpjasQzvpdOvkHd76HN8wJdMMRK2": {
+      "-NJqXjhM_VnYnjxY05bT": {
+        "date": "2022-12-21T21:15:55.135459",
+        "products": [
+          {
+            "id": "0.8371341021303085",
+            "name": "Xiaomi Poco F4",
+            "price": 2649,
+            "productId": "-NJR4ddb3Kbbc1qT9SH0",
+            "quantity": 1
+          },
+          {
+            "id": "0.011129746304959665",
+            "name": "Kit Lápis de Cor",
+            "price": 59.25,
+            "productId": "-NJR5hh5DXhSY9qqyK-A",
+            "quantity": 1
+          },
+          {
+            "id": "0.5035234409282603",
+            "name": "AirPods 2022",
+            "price": 1899,
+            "productId": "-NJR5QhBzuJYBr20Rl5M",
+            "quantity": 1
+          }
+        ],
+        "total": 4607.25
+      },
+      "-NJqree_f07LdUIKojMD": {
+        "date": "2022-12-21T22:47:19.666570",
+        "products": [
+          {
+            "id": "0.6486197814055795",
+            "name": "AirPods 2022",
+            "price": 1899,
+            "productId": "-NJR5QhBzuJYBr20Rl5M",
+            "quantity": 1
+          },
+          {
+            "id": "0.49072400979683173",
+            "name": "Xiaomi Poco F4",
+            "price": 2649,
+            "productId": "-NJR4ddb3Kbbc1qT9SH0",
+            "quantity": 1
+          }
+        ],
+        "total": 4548
+      }
+    }
+  },
+  "products": {
+    "-NJR3QHliwXcIWe5S1Qz": {
+      "description": "Tênis Nike Revolution 6 Next Nature Masculino - Preto/Branco",
+      "imageUrl": "https://static.netshoes.com.br/produtos/tenis-nike-revolution-6-next-nature-masculino/26/2IC-4365-026/2IC-4365-026_zoom1.jpg",
+      "name": "Tênis Nike",
+      "price": 229.99
+    },
+    "-NJR4Jvw2DXQ2mw8vW9p": {
+      "description": "New HR-V Touring - 1.5L VTEC Turbo Flex - Preto",
+      "imageUrl": "https://www.honda.com.br/automoveis/sites/hab/files/2022-10/Touring_preto_cristal_0.jpg",
+      "name": "Honda HR-V",
+      "price": 184500
+    },
+    "-NJR4ddb3Kbbc1qT9SH0": {
+      "description": "256GB 8GB - Prata - 5G",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_926041-MLB52593770156_112022-O.png",
+      "name": "Xiaomi Poco F4",
+      "price": 2649
+    },
+    "-NJR5QhBzuJYBr20Rl5M": {
+      "description": "AirPods - 3° geração",
+      "imageUrl": "https://i.zst.com.br/thumbs/12/27/13/-363278083.jpg",
+      "name": "AirPods 2022",
+      "price": 1899
+    },
+    "-NJR5hh5DXhSY9qqyK-A": {
+      "description": "Pastel + Neon + Metálico - Faber-Castell - 24 Cores",
+      "imageUrl": "https://m.media-amazon.com/images/I/81DfuVA06tL._AC_SX679_.jpg",
+      "name": "Kit Lápis de Cor",
+      "price": 59.25
+    },
+    "-NJR6PRTWlPzT1fzvi47": {
+      "description": "Guitarra elétrica - Ibanez",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_765636-MLB50013146096_052022-O.png",
+      "name": "Guitarra",
+      "price": 1215
+    }
+  },
+  "userFavorites": {
+    "Ce6VloiO2Qa1zwL47KLPDOh6r913": {
+      "-NJR3QHliwXcIWe5S1Qz": false,
+      "-NJR4ddb3Kbbc1qT9SH0": false,
+      "-NJR5QhBzuJYBr20Rl5M": false,
+      "-NJR5hh5DXhSY9qqyK-A": false
+    },
+    "MpjasQzvpdOvkHd76HN8wJdMMRK2": {
+      "-NJR4ddb3Kbbc1qT9SH0": true,
+      "-NJR5QhBzuJYBr20Rl5M": true,
+      "-NJR5hh5DXhSY9qqyK-A": false,
+      "-NJR6PRTWlPzT1fzvi47": false
+    }
+  }
+}
